@@ -1,0 +1,17 @@
+{
+  "name": "simple-paint-app",
+  "version": "1.0.0",
+  "description": "simple-paint-app",
+  "main": "script.js",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.756"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tabish",
+  "license": "ISC"
+}
