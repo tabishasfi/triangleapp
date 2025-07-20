@@ -31,7 +31,3 @@ Pull requests and suggestions are welcome! Feel free to fork the repo and submit
 ## License
 
 This project is open source. See the LICENSE file for details.
-
----
-
-Would you like to customize this further or add more details?
